@@ -33,6 +33,7 @@ header .contenedor {
   width: 98%;
   margin: auto;
   display: table;
+  display: block;
 }
 header .contenedor .contact {
   color: red;
